@@ -1,3 +1,3 @@
 # Identify-similar-images
 
-![Screenshot](screenshot.png)
+![Result](Image.png)
