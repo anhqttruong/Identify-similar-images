@@ -1,5 +1,7 @@
 # Identify-similar-images
 
+Reference: TensorFlow: Advanced Techniques Specialization - Laurence Moroney
+
 ## Abstract: 
 Finding matching images across large datasets plays a key role in many computer vision applications such as structure-from-motion (SfM), multi-view 3D reconstruction, im- age retrieval, and image-based localisation. In this module, we propose finding matching and non-matching pairs of images by representing them with neural network based feature vectors, whose similarity is measured by Euclidean distance. The feature vectors are obtained with convolutional neural networks which are learnt from labeled examples of matching and non-matching image pairs by using a contrastive loss function in a Siamese network architecture. 
 
