@@ -1,4 +1,4 @@
-# Identify-similar-images
+# Identify similar images
 
 Reference: TensorFlow: Advanced Techniques Specialization - Laurence Moroney
 
