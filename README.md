@@ -7,5 +7,6 @@ Finding matching images across large datasets plays a key role in many computer 
 
 Previously Siamese architecture has been utilised in facial image verification and in matching local image patches, but not yet in generic image retrieval or whole-image matching. Our experimental results show that the proposed features improve matching performance compared to baseline features obtained with networks which are trained for image classification task. The features generalize well and improve matching of images of new landmarks which are not seen at training time. This is despite the fact that the labeling of matching and non-matching pairs is imperfect in our training data. The results are promising considering image retrieval applications, and there is potential for further improvement by utilising more training image pairs with more accurate ground truth labels.
 
+The python file will go through creating and training a multi-input model. I will build a basic Siamese Network to find the similarity or dissimilarity between items of clothing.
 
 ![Result](Clothes.png)
