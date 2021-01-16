@@ -1,3 +1,3 @@
 # Identify-similar-images
 
-![Result](Image.png)
+![Result](Clothes.png)
